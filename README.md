@@ -80,3 +80,12 @@ Due to GitHub file size limits, the full dataset is available via Google Drive:
 -  [Download cleaned_har_data.csv](https://drive.google.com/file/d/1j9OasRtH4xRvkfmlb3K1kxoixTuxS_OL/view?usp=sharing),
 -  [Download harus.csv](https://drive.google.com/file/d/1FHKTmpgKqBYBtdCzlGPj8qPISfhZk1W1/view?usp=sharing),
 -  [Download data.zip](https://drive.google.com/file/d/1Ict1VI_5RxZgqALgOqiKqyY62fS1WWBr/view?usp=sharing)
+
+---
+
+## Author Info
+
+- **Name:** MAO JINLIN
+- **Course:** STQD6324 Data Management
+- **Year:** 2025
+- **Institution:** Univerdity Kebangsaan Malaysia
