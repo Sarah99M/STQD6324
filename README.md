@@ -1,5 +1,7 @@
 #  Human Activity Recognition using Smartphones (STQD6324 Assignment 1)
 
+![Cover](Human.png)
+
 This project explores the possibility of recognizing human daily activities using smartphone sensor data (accelerometer and gyroscope), combining big data tools like **Apache Hive** with **Python-based analysis and visualization** in **Jupyter Notebook**.
 
 ---
